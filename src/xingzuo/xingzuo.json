@@ -1,0 +1,74 @@
+[
+  {
+    "mainImg": "https://www.xzw.com/fortune/static/public/images/fortune/image/s_1.gif",
+    "detailUrl": "https://www.xzw.com/fortune/fortune/aries/",
+    "name": "白羊座",
+    "date": "3.21-4.19"
+  },
+  {
+    "mainImg": "https://www.xzw.com/fortune/static/public/images/fortune/image/s_2.gif",
+    "detailUrl": "https://www.xzw.com/fortune/fortune/taurus/",
+    "name": "金牛座",
+    "date": "4.20-5.20"
+  },
+  {
+    "mainImg": "https://www.xzw.com/fortune/static/public/images/fortune/image/s_3.gif",
+    "detailUrl": "https://www.xzw.com/fortune/fortune/gemini/",
+    "name": "双子座",
+    "date": "5.21-6.21"
+  },
+  {
+    "mainImg": "https://www.xzw.com/fortune/static/public/images/fortune/image/s_4.gif",
+    "detailUrl": "https://www.xzw.com/fortune/fortune/cancer/",
+    "name": "巨蟹座",
+    "date": "6.22-7.22"
+  },
+  {
+    "mainImg": "https://www.xzw.com/fortune/static/public/images/fortune/image/s_5.gif",
+    "detailUrl": "https://www.xzw.com/fortune/fortune/leo/",
+    "name": "狮子座",
+    "date": "7.23-8.22"
+  },
+  {
+    "mainImg": "https://www.xzw.com/fortune/static/public/images/fortune/image/s_6.gif",
+    "detailUrl": "https://www.xzw.com/fortune/fortune/virgo/",
+    "name": "处女座",
+    "date": "8.23-9.22"
+  },
+  {
+    "mainImg": "https://www.xzw.com/fortune/static/public/images/fortune/image/s_7.gif",
+    "detailUrl": "https://www.xzw.com/fortune/fortune/libra/",
+    "name": "天秤座",
+    "date": "9.23-10.23"
+  },
+  {
+    "mainImg": "https://www.xzw.com/fortune/static/public/images/fortune/image/s_8.gif",
+    "detailUrl": "https://www.xzw.com/fortune/fortune/scorpio/",
+    "name": "天蝎座",
+    "date": "10.24-11.22"
+  },
+  {
+    "mainImg": "https://www.xzw.com/fortune/static/public/images/fortune/image/s_9.gif",
+    "detailUrl": "https://www.xzw.com/fortune/fortune/sagittarius/",
+    "name": "射手座",
+    "date": "11.23-12.21"
+  },
+  {
+    "mainImg": "https://www.xzw.com/fortune/static/public/images/fortune/image/s_10.gif",
+    "detailUrl": "https://www.xzw.com/fortune/fortune/capricorn/",
+    "name": "摩羯座",
+    "date": "12.22-1.19"
+  },
+  {
+    "mainImg": "https://www.xzw.com/fortune/static/public/images/fortune/image/s_11.gif",
+    "detailUrl": "https://www.xzw.com/fortune/fortune/aquarius/",
+    "name": "水瓶座",
+    "date": "1.20-2.18"
+  },
+  {
+    "mainImg": "https://www.xzw.com/fortune/static/public/images/fortune/image/s_12.gif",
+    "detailUrl": "https://www.xzw.com/fortune/fortune/pisces/",
+    "name": "双鱼座",
+    "date": "2.19-3.20"
+  }
+]
